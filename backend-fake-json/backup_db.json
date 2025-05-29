@@ -1,0 +1,32 @@
+{
+    "blogs": [
+  {
+    "id": 1,
+    "question": "Nội dung câu hỏi số 1",
+    "options": [
+      { "label": "A ", "text": "Đáp án A" },
+      { "label": "B", "text": "Đáp án B" }
+    ],
+    "score": 1
+  },
+  {
+    "id": 2,
+    "question": "Nội dung câu hỏi số 2",
+    "options": [
+      { "label": "A", "text": "Đáp án A2" },
+      { "label": "B", "text": "Đáp án B2" }
+    ],
+    "score": 2
+  },
+  {
+    "id": 3,
+    "question": "Nội dung câu hỏi số 3",
+    "options": [
+      { "label": "A", "text": "Đáp án A33" },
+      { "label": "B", "text": "Đáp án B3" }
+    ],
+    "score": 2
+  }
+]
+
+}
